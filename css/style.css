@@ -18087,7 +18087,7 @@ header.transparent.stop.header-2 .main-header-wraper {
 }
 
 .footer-1 {
-  padding-top: 213px;
+  
   background-size: cover;
   background-position: center;
   background-color: #0E1E36;
@@ -18164,7 +18164,7 @@ header.transparent.stop.header-2 .main-header-wraper {
 }
 @media (max-width: 767px) {
   .footer-1 {
-    padding-top: 170px;
+    padding-top: 0px;
   }
 }
 .footer-1 .single-footer-wid {

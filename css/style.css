@@ -73,6 +73,11 @@ input:focus, textarea:focus, select:focus {
   opacity: 1; /* Firefox */
 }
 
+
+.job-details{
+  margin-top: 130px;
+}
+
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
   color: #666;
 }

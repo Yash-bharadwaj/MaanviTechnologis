@@ -9627,6 +9627,7 @@ header.header-3 .header-menu ul > li:hover > a, header.header-3 .header-menu ul 
 header.header-3 .header-menu ul > li a {
   color: #04213F;
   padding: 33px 20px;
+  font-size:13px
 }
 header.header-3 .header-menu ul > li > ul li a:hover {
   color: #EF0548;
